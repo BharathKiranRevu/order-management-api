@@ -1,0 +1,10 @@
+app.baseURL = 'http://localhost:8080/'
+CI_ENVIRONMENT = development
+
+
+database.default.hostname = localhost
+database.default.database = dbname
+database.default.username = root
+database.default.password =
+database.default.DBDriver = MySQLi
+
